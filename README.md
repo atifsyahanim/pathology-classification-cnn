@@ -18,6 +18,7 @@ This repository contains two main components for my FYP project on **voice-based
 cd prototype
 pip install -r requirements.txt
 python app.py
+```
 
 ## 2. Full Notebook (`full_notebook/`)
 Complete Colab notebook containing:
@@ -26,6 +27,6 @@ Complete Colab notebook containing:
 - Evaluation and performance analysis
 This is for anyone interested in reproducing the experiments or exploring the details.
 
-## 3. Data
+## Data
 - The dataset used for this project is **not included** due to privacy and ethical reasons.  
 - Some data was collected from hospitals, and some is self-collected.  
